@@ -1,0 +1,12 @@
+body {
+    font-family: "Raleway", sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
